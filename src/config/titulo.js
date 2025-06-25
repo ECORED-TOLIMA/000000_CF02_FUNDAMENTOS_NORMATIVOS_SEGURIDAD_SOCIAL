@@ -1,1 +1,1 @@
-module.exports = 'Fundamentos normativos de seguridad social'
+module.exports = 'Gestión para la afiliación a los planes de beneficio en salud'

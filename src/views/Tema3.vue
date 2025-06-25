@@ -5,8 +5,20 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="fade-right")
         span 3
-      h1 Titulo_de_primer_nivel
-
+      h1 Sistema de Afiliación Transaccional (SAT)
+    
+    separador
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 Afiliación colectiva al sistema de salud en Colombia
+    
+    separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2  Etapa de recolección de información en el proceso de afiliación colectiva
+    
+    separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 Los pagos compartidos o copagos
+      
 </template>
 
 <script>
