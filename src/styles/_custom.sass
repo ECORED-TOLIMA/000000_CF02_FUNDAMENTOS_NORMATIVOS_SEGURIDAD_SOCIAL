@@ -73,22 +73,19 @@ figcaption
 .tarjeta-avatar-b__img
   img
     width: 70%
-.tarjeta--BG01
-  //background-image: url("../assets/curso/temas/tema2/imgfondo.png")
-  background-size: cover
-  background-repeat: no-repeat
-  background-position: center
-  margin-inline: -3rem !important
-  @media (max-width: $bp-max-sm)
-    margin-inline: -1.5rem !important
 
-.tarjeta--BG06
+.tarjeta--BG01
   background-image: url("../assets/curso/temas/tema1/imgfondoslyder2.png")
   background-size: cover 
   background-repeat: no-repeat
   background-position: center
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+.tarjeta--BG02
+  background-image: url("../assets/curso/temas/tema2/imgfondosf.png")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
 .tarjeta-BG02
   background: #ac1212
   background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(228, 247, 249, 1) 20%, rgba(235, 246, 255, 1) 84%, rgba(255, 255, 255, 1) 100%)
@@ -105,15 +102,19 @@ figcaption
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
 
-.tarjeta--BG056
-  //background-image: url("../assets/curso/temas/tema5/fondoimg.png")
+.tarjeta--BG053
+  background-image: url("../assets/curso/temas/tema3/imgfondo.png")
   background-size: cover
   background-repeat: no-repeat
   background-position: center
   margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
-
+.tarjeta--BG03
+  background-color: #D1F3F5 !important
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
 .BG02
   background-color: #FFFFFF !important
   background-size: cover 
@@ -130,7 +131,8 @@ h3.col
   background: linear-gradient(to right, #DDF1FF 12%, #D1F3F5 12%)
   @media (max-width: $bp-max-md)
     background: linear-gradient(to bottom, #DDF1FF 22%, #D1F3F5 22%)
-
+.tarjeta.color-adicional-2
+  background-color: #F0D4E0 !important
 //pestañas TabsA
 .tabs-a__tab
   background-color: #C9DAEC
@@ -398,4 +400,15 @@ i.fas.fa-angle-up
   color: white
 .tarjeta .tarjeta--azul
   background-color: #CFDBDE
- 
+.tarjeta--tabla
+  background-color: #DDF1FF
+
+.tarjeta--tabla:nth-child(even)
+  background-color: #D1F3F5
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #ac064c
+  border: 1px solid #ac064c
+  opacity: 1
+.acordion__accion__btn--a
+  background-color: #ac064c
+  color: white

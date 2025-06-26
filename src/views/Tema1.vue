@@ -63,7 +63,7 @@
       h2 Conformación del Plan de Beneficios en Salud (PBS)
     p.mb-4 El PBS en Colombia está diseñado para ofrecer una cobertura integral y estructurada que garantice el acceso a servicios de salud esenciales para todos los afiliados, promoviendo la protección social y la equidad. Su estructura se compone principalmente de varios componentes que aseguran una atención completa y coordinada, de la siguiente manera:  
     
-    .tarjeta.tarjeta--BG06.p-5.mb-4(data-aos="zoom-in")
+    .tarjeta.tarjeta--BG01.p-5.mb-4(data-aos="zoom-in")
       SlyderA(tipo="b" data-aos="zoom-in")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
