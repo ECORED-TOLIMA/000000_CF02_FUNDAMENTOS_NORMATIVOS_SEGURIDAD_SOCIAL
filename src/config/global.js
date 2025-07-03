@@ -49,7 +49,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          'Los regímenes de atención contributivo y subsidiado en salud en colombia',
+          'Los regímenes de atención contributivo y subsidiado en salud en Colombia',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -134,7 +134,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA_02_00000000_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -151,7 +151,7 @@ export default {
   complementario: [
     {
       tema:
-        '2. Los regímenes de atención contributivo y subsidiado en salud en colombia',
+        '2. Los regímenes de atención contributivo y subsidiado en salud en Colombia.',
       referencia:
         'Superintendencia Nacional de Salud. (2018). Cómo realizar un traslado de EPS a través de miseguridadsocial.gov.co. [Video]. YouTube.',
       tipo: 'Video',
@@ -159,14 +159,14 @@ export default {
     },
     {
       tema:
-        '2. Los regímenes de atención contributivo y subsidiado en salud en colombia',
+        '2. Los regímenes de atención contributivo y subsidiado en salud en Colombia.',
       referencia:
         'Desarrollo-SAT MinSalud. (2020). Inclusión de beneficiario. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=KUioHBNxZ_Y&t=2s',
     },
     {
-      tema: '3. Sistema de Afiliación Transaccional (SAT)',
+      tema: '3. Sistema de Afiliación Transaccional (SAT).',
       referencia:
         'Desarrollo-SAT MinSalud. (2020). Actualización datos complementarios. [Video]. YouTube.',
       tipo: 'Video',
@@ -174,7 +174,7 @@ export default {
     },
     {
       tema:
-        '3.2. Etapa de recolección de información en el proceso de afiliación colectiva',
+        '3.2. Etapa de recolección de información en el proceso de afiliación colectiva.',
       referencia: 'ADRES Colombia. (2024). ¿Qué es UPC? [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=wq19zo6I4Q8',

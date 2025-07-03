@@ -28,20 +28,18 @@
           .row.justify-content-center.mb-3
             .col-4
               img(src='@/assets/curso/temas/tema4/img4.svg' alt="Imagen decorativa")
-          h4.text-center John Doe
           p.text-center Los exámenes de diagnóstico por laboratorio clínico y por imagenología como radiologías y ecografías.
 
         .col-md-6.col-lg.tarjeta--tabla.p-4
           .row.justify-content-center.mb-3
             .col-4
               img(src='@/assets/curso/temas/tema4/img5.svg' alt="Imagen decorativa")
-          h4.text-center John Doe
           p.text-center La atención en el servicio de urgencias en las categorías de triage IV y V.
     p Estos son algunos de los servicios que se ofrecen para atender diferentes necesidades de salud.
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 Servicios exceptuados de cobro de cuotas moderadoras
-    p.mb-4 Son excentos si hacen parte de alguno de los siguientes casos:
+      h2 4.1 Servicios exceptuados de cobro de cuotas moderadoras
+    p.mb-4 Son exentos si hacen parte de alguno de los siguientes casos:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-6.mb-md-4
         figure
@@ -53,24 +51,24 @@
             | Los afiliados en el régimen subsidiado, en todos los servicios que requieran.
           li
             i.fas.fa-hand-point-right
-            | Los afiliados en el régimen contributivo, que deban someterse a prescripciones regulares en los siguientes diagnósticos con sus tratamientos integrales:
-        .cajon.color-primario.p-3
-          ul.lista-ul--color.mb-0
-            li
-              i.fas.fa-angle-right
-              | Atención de pacientes con diabetes mellitus tipo I y II.
-            li
-              i.fas.fa-angle-right
-              | Atención de pacientes con hipertensión arterial.
-            li
-              i.fas.fa-angle-right
-              | Atención del paciente trasplantado.
-            li
-              i.fas.fa-angle-right
-              | Atención de pacientes con enfermedades huérfanas y ultra huérfanas.
-            li
-              i.fas.fa-angle-right
-              | Alteraciones nutricionales en personas menores de 5 años (anemia o desnutrición aguda).
+            p.mb-0 Los afiliados en el régimen contributivo, que deban someterse a prescripciones regulares en los siguientes diagnósticos con sus tratamientos integrales:
+          .cajon.color-primario.p-3.m-4.mb-0.mt-0
+            ul.lista-ul--color.mb-0
+              li
+                i.fas.fa-check
+                | Atención de pacientes con diabetes mellitus tipo I y II.
+              li
+                i.fas.fa-check
+                | Atención de pacientes con hipertensión arterial.
+              li
+                i.fas.fa-check
+                | Atención del paciente trasplantado.
+              li
+                i.fas.fa-check
+                | Atención de pacientes con enfermedades huérfanas y ultra huérfanas.
+              li
+                i.fas.fa-check
+                | Alteraciones nutricionales en personas menores de 5 años (anemia o desnutrición aguda).
         ul.lista-ul--color
           li
             i.fas.fa-hand-point-right

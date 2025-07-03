@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Los Planes de Beneficios en Salud (PBS) del sistema de salud colombiano
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-4.col-md-8.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
@@ -14,7 +14,7 @@
         p Son un conjunto de servicios, procedimientos, medicamentos y tecnologías médicas garantizados por la ley para todos los afiliados al Sistema General de Seguridad Social en Salud (SGSSS). Estos planes establecen qué atenciones médicas, tratamientos, intervenciones quirúrgicas, medicamentos y tecnologías están cubiertos y bajo qué condiciones específicas aplican.
         .cajon.color-secundario.p-4
           p.mb-0 La finalidad principal de los PBS es asegurar que toda la población tenga acceso a una atención integral y de calidad, sin que esto implique costos excesivos o desproporcionados para los usuarios. Los planes están diseñados para cubrir las necesidades básicas y prioritarias en salud, promoviendo la prevención, el tratamiento y la rehabilitación de enfermedades, así como la protección social en salud. 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-2.order-lg-1
         p Existen diferentes tipos de planes, según el régimen al que pertenezca el afiliado: 
         ul.lista-ul--color
@@ -60,7 +60,7 @@
         p La regulación y supervisión de estos planes están a cargo del Ministerio de Salud y Protección Social, con el fin de garantizar su cumplimiento y calidad. En el contexto social y legal actual, estos avances reflejan un compromiso del Estado con la protección social universal, promoviendo derechos fundamentales relacionados con la salud. La legislación colombiana ha evolucionado para fortalecer la protección del derecho a la salud, mediante reformas que amplían la cobertura y mejoran la calidad del servicio, promoviendo mayor equidad social y reduciendo desigualdades en el acceso a atención sanitaria.
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 Conformación del Plan de Beneficios en Salud (PBS)
+      h2 1.1 Conformación del Plan de Beneficios en Salud (PBS)
     p.mb-4 El PBS en Colombia está diseñado para ofrecer una cobertura integral y estructurada que garantice el acceso a servicios de salud esenciales para todos los afiliados, promoviendo la protección social y la equidad. Su estructura se compone principalmente de varios componentes que aseguran una atención completa y coordinada, de la siguiente manera:  
     
     .tarjeta.tarjeta--BG01.p-5.mb-4(data-aos="zoom-in")

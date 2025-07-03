@@ -55,7 +55,7 @@
         h5.text-center Reportes y análisis
         p.text-center El sistema puede generar informes detallados sobre las afiliaciones, transacciones realizadas, tasas de retención, entre otros datos importantes para la toma de decisiones.
     p.mb-4 Este sistema es muy utilizado en diferentes ámbitos, como en programas de fidelización, plataformas de comercio electrónico, servicios de suscripción y en algunos casos, en sistemas gubernamentales o empresariales que requieren un control riguroso de afiliaciones y transacciones relacionadas.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4
           p El SAT es una herramienta que centraliza y automatiza la gestión de afiliaciones mediante transacciones, garantizando transparencia, seguridad y eficiencia en el proceso. 
@@ -117,7 +117,7 @@
             .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img13.png', alt='Texto que describa la imagen')
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-10
         p Es importante destacar que el proceso puede variar ligeramente dependiendo de la EPS o del sistema particular que se utilice, pero en general, estos son los pasos básicos para la afiliación colectiva en Colombia.
     separador
@@ -155,7 +155,7 @@
       h5.mb-0 Gastos derivados de los planes de beneficio
     p.mb-4 Los costos asociados a la prestación de los servicios y beneficios que reciben los afiliados en el sistema de salud, son los gastos que las EPS y las instituciones de salud deben cubrir para poder brindar atención. Estos gastos se dividen en varias categorías principales: 
 
-    .tarjeta--BG053.px-lg-5
+    .tarjeta--BG053.px-lg-5.px-4
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
@@ -203,7 +203,7 @@
         LineaTiempoD.color-acento-botones
           .row.justify-content-center(numero="1" titulo="Unidad de Pago por Capitación (UPC)")
             .col-lg-12.order-lg-2.order-3
-              p Es el valor anual que se reconoce por cada uno de los afiliados al sistema general de seguridad social en salud (SGSSS), para cubrir las prestaciones del Plan Obligatorio de Salud (POS), en los regímenes contributivo y subsidiado.
+              p Es el valor anual que se reconoce por cada uno de los afiliados al Sistema General de Seguridad Social en salud (SGSSS), para cubrir las prestaciones del Plan Obligatorio de Salud (POS), en los regímenes contributivo y subsidiado.
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/img21.png', alt="Imagen decorativa")
@@ -236,7 +236,7 @@
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Los pagos compartidos o copagos
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img25.png')})`}"
       )
@@ -250,7 +250,7 @@
       .col-lg-10.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema3/img26.png', alt='Texto que describa la imagen')
-    .tarjeta-BG02.px-lg-5
+    .tarjeta-BG02.px-lg-5.px-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
           .titulo.mb-4(data-aos="flip-up")

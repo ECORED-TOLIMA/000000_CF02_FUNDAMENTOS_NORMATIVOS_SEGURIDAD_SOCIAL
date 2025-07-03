@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 2
-      h1 Los regímenes de atención contributivo y subsidiado en salud en colombia
+      h1 Los regímenes de atención contributivo y subsidiado en salud en Colombia
     .row.justify-content-center.align-items-centerr.mb-4
       .col-lg-12(data-aos="zoom-in")
         figure
@@ -70,22 +70,30 @@
         p.mb-0 El régimen subsidiado fue formalizado principalmente por la Ley 100 de 1993, que estableció el Sistema General de Seguridad Social en Salud. Posteriormente, diversas normativas complementarias han definido sus reglas específicas. Su finalidad es garantizar que toda persona sin recursos económicos suficientes tenga acceso a una atención integral en salud sin costo directo para el usuario. La Constitución Política de Colombia (artículo 48), también establece el derecho fundamental a la protección social en salud para todos los ciudadanos.
     p El régimen ha evolucionado con reformas regulatorias que buscan ampliar su cobertura, mejorar la calidad del servicio y fortalecer la gestión pública.
     p.mb-4 Dentro de sus características principales se encuentran: 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-6.mb-md-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img7.png', alt='Imagen decorativa')
-      .col-lg-9
-        TabsA.color-acento-botones
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Población objetivo")
-            p El régimen subsidiado está pensado para las personas que están en situación de pobreza o que tienen dificultades económicas. Para saber quiénes pueden acceder, las entidades locales usan programas sociales y registros administrativos. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Beneficiarios")
-            p Los principales beneficiarios son quienes están en programas como Familias en Acción, personas que viven en zonas rurales o en barrios marginados, comunidades indígenas y afrodescendientes, personas desplazadas por conflictos armados, adultos mayores que no tienen recursos y personas con discapacidad que no pueden sostenerse por sí mismas.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Afiliación")
-            p La afiliación se realiza a través de la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (ADRES), antes llamado Fondo de Solidaridad y Garantías (FOSYGA). Las entidades territoriales son responsables de identificar e inscribir a los beneficiarios mediante registros administrativos y programas sociales existentes. Una vez afiliados, estos usuarios reciben un carné que acredita su condición como beneficiarios del régimen subsidiado.000
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Financiamiento")
-            p El financiamiento del régimen subsidiado proviene principalmente del Estado colombiano mediante recursos fiscales nacionales y transferencias territoriales. La ley establece que el presupuesto destinado a este régimen debe ser suficiente para cubrir las necesidades básicas en salud de la población vulnerable.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Cobertura y plan de beneficios")
-            p El PBS para el régimen subsidiado, es parecido al del régimen contributivo, pero ajustado a lo que el presupuesto puede cubrir. Incluye aspectos de atención primaria, como consultas médicas y vacunación; atención en hospitales, como cirugías y emergencias; servicios de diagnóstico, como exámenes clínicos y de imagen; medicamentos esenciales; y también, programas para prevenir enfermedades y promover la salud.
+    .tarjeta--BG020.px-lg-5.px-4
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-3.col-md-6.mb-md-4
+          figure
+            img(src='@/assets/curso/temas/tema2/img7.png', alt='Imagen decorativa')
+        .col-lg-9
+          TabsA.color-acento-botones
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Población objetivo")
+              h4 Población objetivo
+              p El régimen subsidiado está pensado para las personas que están en situación de pobreza o que tienen dificultades económicas. Para saber quiénes pueden acceder, las entidades locales usan programas sociales y registros administrativos. 
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Beneficiarios")
+              h4 Beneficiarios
+              p Los principales beneficiarios son quienes están en programas como Familias en Acción, personas que viven en zonas rurales o en barrios marginados, comunidades indígenas y afrodescendientes, personas desplazadas por conflictos armados, adultos mayores que no tienen recursos y personas con discapacidad que no pueden sostenerse por sí mismas.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Afiliación")
+              h4 Afiliación
+              p La afiliación se realiza a través de la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (ADRES), antes llamado Fondo de Solidaridad y Garantías (FOSYGA). Las entidades territoriales son responsables de identificar e inscribir a los beneficiarios mediante registros administrativos y programas sociales existentes. 
+              p Una vez afiliados, estos usuarios reciben un carné que acredita su condición como beneficiarios del régimen subsidiado.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Financiamiento")
+              h4 Financiamiento
+              p El financiamiento del régimen subsidiado proviene principalmente del Estado colombiano mediante recursos fiscales nacionales y transferencias territoriales. La ley establece que el presupuesto destinado a este régimen debe ser suficiente para cubrir las necesidades básicas en salud de la población vulnerable.
+              p El dinero se canaliza, a través del ADRES que administra los recursos destinados a pagar los servicios prestados por hospitales públicos o privados autorizados.
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Cobertura y plan de beneficios")
+              h4 Cobertura y plan de beneficios
+              p El PBS para el régimen subsidiado, es parecido al del régimen contributivo, pero ajustado a lo que el presupuesto puede cubrir. Incluye aspectos de atención primaria, como consultas médicas y vacunación; atención en hospitales, como cirugías y emergencias; servicios de diagnóstico, como exámenes clínicos y de imagen; medicamentos esenciales; y también, programas para prevenir enfermedades y promover la salud.
     separador
     .tarjeta-BG02.px-lg-5
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -166,9 +174,9 @@
           img(src='@/assets/curso/temas/tema2/img12.svg', alt='')
       .col-lg-7
          LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Dependiente") Si es dependiente, también el empleador debe firmar el formulario y elegir la EPS que prefiere y se lo comunica al jefe junto con los datos de la familia. Lo mismo pasa con los aprendices en etapa lectiva y productiva.
-          p.text-small(numero="2" titulo="Pensionados") En el caso de los pensionados, deben decirle a su fondo de pensiones a qué EPS quieren que les hagan las cotizaciones, ya sea la misma de antes o una diferente si deciden cambiarse, siempre que cumplan con los requisitos. El fondo se encarga de llenar el formulario y pagar la cotización mensual a la EPS elegida. 
-          p.text-small(numero="3" titulo="	Independientes") Los trabajadores independientes también deben inscribirse por su cuenta en la EPS que elijan, llenando el formulario correspondiente y haciendo los pagos mensuales, a través de la planilla integrada. Además, con el sistema de afiliación transaccional y el formulario electrónico que adopte el ministerio, la afiliación ahora puede hacerse directamente por el cotizante, registrándose en el sistema y usando el formulario digital.
+          p(numero="1" titulo="Dependiente") Si es dependiente, también el empleador debe firmar el formulario y elegir la EPS que prefiere y se lo comunica al jefe junto con los datos de la familia. Lo mismo pasa con los aprendices en etapa lectiva y productiva.
+          p(numero="2" titulo="Pensionados") En el caso de los pensionados, deben decirle a su fondo de pensiones a qué EPS quieren que les hagan las cotizaciones, ya sea la misma de antes o una diferente si deciden cambiarse, siempre que cumplan con los requisitos. El fondo se encarga de llenar el formulario y pagar la cotización mensual a la EPS elegida. 
+          p(numero="3" titulo="Independientes") Los trabajadores independientes también deben inscribirse por su cuenta en la EPS que elijan, llenando el formulario correspondiente y haciendo los pagos mensuales, a través de la planilla integrada. Además, con el sistema de afiliación transaccional y el formulario electrónico que adopte el ministerio, la afiliación ahora puede hacerse directamente por el cotizante, registrándose en el sistema y usando el formulario digital.
     .titulo.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 Régimen subsidiado
@@ -242,6 +250,8 @@
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema2/img20.png', alt="Imagen decorativa")
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-10
         p Sin embargo, la persona podrá ejercer el derecho a la libre escogencia de EPS dentro de los noventa (90) días calendario contados a partir de la inscripción. (…)
     .tarjeta.color-adicional-2.p-3.mb-4(data-aos="fade-right")
       .row.justify-content-around.align-items-center
