@@ -7,7 +7,7 @@
         span 1
       h1 Los Planes de Beneficios en Salud (PBS) del sistema de salud colombiano
     .row.justify-content-center.mb-4
-      .col-lg-4.col-md-8.mb-md-4
+      .col-lg-4.col-8.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
       .col-lg-8
@@ -26,7 +26,7 @@
             | Subsidiado: destinado a las personas en situación de vulnerabilidad o pobreza que no pueden costearse un plan completo. 
         .cajon.color-primario.p-4
           p.mb-0 Ambos buscan garantizar una cobertura efectiva y equitativa para todos los ciudadanos. Además, los PBS se actualizan periódicamente para incorporar nuevas tecnologías y avances médicos, asegurando que los pacientes tengan acceso a tratamientos innovadores cuando sean necesarios.
-      .col-lg-3.col-md-6.mb-md-4.order-1.order-lg-2
+      .col-lg-3.col-6.mb-lg-0.mb-4.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
     p.mb-4 Antes de ser conocidos como Planes de Beneficios en Salud (PBS), en Colombia estos programas y esquemas relacionados con la protección en salud recibieron diferentes nombres y denominaciones a lo largo del tiempo, reflejando cambios en la estructura del sistema y en la legislación: 
@@ -35,27 +35,27 @@
       .tarjeta.tarjeta--BG04.p-4.mb-4
         PasosB.color-acento-botones
           .row(titulo="")
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-md-0
               h4 A.	Planes Obligatorios de Salud (POS)
               p Durante las primeras etapas del sistema de salud colombiano, el concepto de cobertura en salud se refería principalmente a los Planes Obligatorios de Salud (POS), que eran los conjuntos específicos de servicios y medicamentos garantizados por la ley para los afiliados. El POS fue el término utilizado durante muchos años para describir los beneficios mínimos que debía ofrecer el sistema, tanto en el régimen contributivo como en el subsidiado. 
-            .col-md-5
+            .col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-md-0
               h4 B.	Planes de Beneficios en Salud (PBS)
               p Posteriormente, con la implementación de reformas legales y estructurales, especialmente con la Ley 100 de 1993, se introdujo el concepto de Planes de Beneficios en Salud (PBS) para unificar y ampliar la cobertura, diferenciándose del antiguo POS al incluir tecnologías médicas más avanzadas y una mayor protección social. 
-            .col-md-5
+            .col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-md-0
               h4 C.	Planes de Beneficios 
               p En algunos documentos y contextos históricos también se utilizaba simplemente el término Cobertura en salud o Programas de atención en salud, pero el cambio formal hacia Planes de Beneficios representó una evolución conceptual que buscaba garantizar derechos más amplios y claros a los usuarios del sistema. 
-            .col-md-5
+            .col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-10
         p La regulación y supervisión de estos planes están a cargo del Ministerio de Salud y Protección Social, con el fin de garantizar su cumplimiento y calidad. En el contexto social y legal actual, estos avances reflejan un compromiso del Estado con la protección social universal, promoviendo derechos fundamentales relacionados con la salud. La legislación colombiana ha evolucionado para fortalecer la protección del derecho a la salud, mediante reformas que amplían la cobertura y mejoran la calidad del servicio, promoviendo mayor equidad social y reduciendo desigualdades en el acceso a atención sanitaria.
     separador

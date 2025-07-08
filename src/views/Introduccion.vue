@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.col-md-8.mb-md-4
+      .col-lg-4.col-8.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/intro/img1.png', alt='Imagen decorativa')
       .col-lg-8

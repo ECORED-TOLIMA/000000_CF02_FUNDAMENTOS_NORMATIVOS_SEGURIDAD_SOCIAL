@@ -52,7 +52,7 @@
           li
             i.fas.fa-hand-point-right
             p.mb-0 Los afiliados en el régimen contributivo, que deban someterse a prescripciones regulares en los siguientes diagnósticos con sus tratamientos integrales:
-          .cajon.color-primario.p-3.m-4.mb-0.mt-0
+          .tarjeta-cuadro.color-primario.p-3.m-4.mb-0.mt-0
             ul.lista-ul--color.mb-0
               li
                 i.fas.fa-check

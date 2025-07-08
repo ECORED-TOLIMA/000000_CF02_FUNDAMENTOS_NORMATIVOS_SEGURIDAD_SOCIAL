@@ -7,7 +7,7 @@
         span 3
       h1 Sistema de Afiliación Transaccional (SAT)
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.col-md-10.mb-md-4
+      .col-lg-5.col-10.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')
       .col-lg-7
@@ -57,8 +57,8 @@
     p.mb-4 Este sistema es muy utilizado en diferentes ámbitos, como en programas de fidelización, plataformas de comercio electrónico, servicios de suscripción y en algunos casos, en sistemas gubernamentales o empresariales que requieren un control riguroso de afiliaciones y transacciones relacionadas.
     .row.justify-content-center.align-items-center
       .col-lg-10
-        .cajon.color-secundario.p-4.mb-4
-          p El SAT es una herramienta que centraliza y automatiza la gestión de afiliaciones mediante transacciones, garantizando transparencia, seguridad y eficiencia en el proceso. 
+        .cajon.color-secundario.p-4
+          p.mb-0 El SAT es una herramienta que centraliza y automatiza la gestión de afiliaciones mediante transacciones, garantizando transparencia, seguridad y eficiencia en el proceso. 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.1 Afiliación colectiva al sistema de salud en Colombia
@@ -67,46 +67,46 @@
       .tarjeta.tarjeta--BG04.p-4.mb-4
         PasosB.color-acento-botones
           .row(titulo="")
-            .col-md-5.order-2.order-lg-1
+            .col-lg-5.order-2.order-lg-1
               h4 Identificación del grupo o entidad responsable
               p Generalmente, la afiliación colectiva la realiza la empresa, organización o entidad que actúa como responsable del grupo. Esta puede ser una empresa, una institución educativa, una organización sin ánimo de lucro, entre otras.
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img7.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-5.order-2.order-lg-1
+            .col-lg-5.order-2.order-lg-1
               h4 Recolección de información
               p La entidad responsable debe recopilar los datos de todos los integrantes del grupo que van a afiliarse. Esto incluye nombres completos, documentos 
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img8.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-5.order-2.order-lg-1
+            .col-lg-5.order-2.order-lg-1
               h4 Verificación de la elegibilidad
               p Se verifica que los afiliados cumplan con los requisitos para afiliarse, como no estar ya afiliados a otro sistema de salud o cumplir con las condiciones específicas según la categoría de afiliación (empleado, beneficiario, etc.).
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img9.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-5.order-2.order-lg-1
+            .col-lg-5.order-2.order-lg-1
               h4 Registro en el sistema
               p La entidad responsable realiza el proceso de afiliación, a través de los canales establecidos por el sistema de salud en Colombia, que puede ser en línea, en las oficinas de las EPS o mediante plataformas autorizadas. En algunos casos, se puede hacer por medio de un formulario físico o digital.
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img10.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-5.order-2.order-lg-1
+            .col-lg-5.order-2.order-lg-1
               h4 Pago de aportes
               p La afiliación colectiva implica que la entidad responsable asuma ciertos aportes económicos, que corresponden a la cotización del grupo. Estos pagos se realizan periódicamente y deben cumplir con los porcentajes establecidos por la ley.
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img11.png', alt='Texto que describa la imagen')
           .row(titulo="")
-            .col-md-5.order-2.order-lg-1
+            .col-lg-5.order-2.order-lg-1
               h4 Confirmación y entrega de carné
               p Una vez completados los pasos anteriores, se confirma la afiliación y se entregan los carnés o comprobantes de afiliación a cada beneficiario, quienes podrán acceder a los servicios de salud.
 
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img12.png', alt='Texto que describa la imagen')
           .row(titulo="")
@@ -114,7 +114,7 @@
               h4 Seguimiento y actualización
               p Es importante mantener actualizada la información y realizar los cambios necesarios en caso de novedades, como cambios en la nómina, incorporación de nuevos miembros o bajas.
 
-            .col-lg-6.col-md-12.mb-4.mb-md-0.order-1.order-lg-2
+            .col-lg-6.col-12.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img13.png', alt='Texto que describa la imagen')
     .row.justify-content-center.align-items-center
@@ -123,10 +123,10 @@
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2  3.2 Etapa de recolección de información en el proceso de afiliación colectiva
-    p.mb-4 La recolección de información es súper importante para asegurarse de que todos los beneficiarios estén bien inscritos y puedan acceder a los servicios de salud sin problemas. Esto implica que la entidad responsable, como una empresa o institución, recopile todos los datos necesarios de las personas que van a estar en el sistema de salud, ya sea usando formularios físicos, digitales o plataformas en línea autorizadas por las EPS o el Ministerio de Salud. Es fundamental que la información sea precisa y completa para evitar errores en la afiliación y que la atención médica sea correcta. Los datos que suelen recopilar incluyen nombres completos, número de documento de identidad (como cédula o NIT), fecha de nacimiento, sexo, dirección de residencia, estado civil, información de contacto (teléfono y correo), datos laborales (cargo, salario, tipo de contrato) y otros detalles adicionales como grupo sanguíneo, antecedentes médicos o condiciones especiales que requieran atención particular.
+    p.mb-5 La recolección de información es súper importante para asegurarse de que todos los beneficiarios estén bien inscritos y puedan acceder a los servicios de salud sin problemas. Esto implica que la entidad responsable, como una empresa o institución, recopile todos los datos necesarios de las personas que van a estar en el sistema de salud, ya sea usando formularios físicos, digitales o plataformas en línea autorizadas por las EPS o el Ministerio de Salud. Es fundamental que la información sea precisa y completa para evitar errores en la afiliación y que la atención médica sea correcta. Los datos que suelen recopilar incluyen nombres completos, número de documento de identidad (como cédula o NIT), fecha de nacimiento, sexo, dirección de residencia, estado civil, información de contacto (teléfono y correo), datos laborales (cargo, salario, tipo de contrato) y otros detalles adicionales como grupo sanguíneo, antecedentes médicos o condiciones especiales que requieran atención particular.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .titulo.mb-4(data-aos="flip-up")
+        .titulo.mb-5(data-aos="flip-up")
           img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
           h5.mb-0 ¿Cómo se realiza la recolección?
         p.mb-4 Mediante los siguientes procesos:
@@ -140,23 +140,20 @@
             figure
               img(src='@/assets/curso/temas/tema3/img14.svg', alt='Texto que describa la imagen')
           .tarjeta.color-acento-contenido.p-3(x="92%" y="65%" numero="+")
-            .h5.mb-2 Formularios físicos
             p En oficinas o sedes de la entidad responsable, llenando formularios en papel que luego se ingresan en el sistema.
           .tarjeta.color-acento-contenido.p-3(x="49%" y="42%" numero="+")
-            .h5.mb-2 Formularios digitales
             p A través de plataformas en línea, portales web o aplicaciones móviles, donde los beneficiarios o responsables ingresan la información directamente.
           .tarjeta.color-acento-contenido.p-3(x="5%" y="65%" numero="+")
-            .h5.mb-2 Bases de datos
             p En algunos casos, se puede acceder a información previa si la persona ya está registrada en otros sistemas, siempre y cuando se tenga autorización y se garantice la protección de datos personales.
         .cajon.color-primario.p-4.mb-4
           p Es fundamental que la información sea correcta y esté actualizada para evitar problemas futuros, como errores en la atención médica, dificultades en la comunicación, o en la gestión administrativa. Además, la protección de los datos personales debe cumplirse en todo momento, siguiendo las normativas vigentes en protección de datos en Colombia.
-    .titulo.mb-4(data-aos="flip-up")
+    .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 Gastos derivados de los planes de beneficio
     p.mb-4 Los costos asociados a la prestación de los servicios y beneficios que reciben los afiliados en el sistema de salud, son los gastos que las EPS y las instituciones de salud deben cubrir para poder brindar atención. Estos gastos se dividen en varias categorías principales: 
 
     .tarjeta--BG053.px-lg-5.px-4
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
             .tarjeta.bgblanco.p-4
@@ -191,8 +188,8 @@
               p.text-center Son los costos relacionados con la gestión, administración y operación del sistema, incluyendo la gestión de afiliaciones, autorizaciones y pagos.
         .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4
           figure
-            img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa')
-    .titulo.mb-4(data-aos="flip-up")
+            img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa' style='margin-bottom: -23px;')
+    .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 ¿Qué impacto tienen estos gastos?
     p El volumen y la gestión eficiente de estos gastos son fundamentales para mantener la sostenibilidad del sistema de salud. Un aumento en los costos puede afectar la calidad y la disponibilidad de los servicios, por lo que es importante que las EPS y las instituciones de salud gestionen estos recursos de manera responsable y transparente.
@@ -203,7 +200,7 @@
         LineaTiempoD.color-acento-botones
           .row.justify-content-center(numero="1" titulo="Unidad de Pago por Capitación (UPC)")
             .col-lg-12.order-lg-2.order-3
-              p Es el valor anual que se reconoce por cada uno de los afiliados al Sistema General de Seguridad Social en salud (SGSSS), para cubrir las prestaciones del Plan Obligatorio de Salud (POS), en los regímenes contributivo y subsidiado.
+              p Es el valor anual que se reconoce por cada uno de los afiliados al Sistema General de Seguridad Social en Salud (SGSSS), para cubrir las prestaciones del Plan Obligatorio de Salud (POS), en los regímenes contributivo y subsidiado.
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/img21.png', alt="Imagen decorativa")
@@ -236,7 +233,7 @@
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Los pagos compartidos o copagos
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-4
+    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img25.png')})`}"
       )
@@ -253,7 +250,7 @@
     .tarjeta-BG02.px-lg-5.px-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
-          .titulo.mb-4(data-aos="flip-up")
+          .titulo.mb-5(data-aos="flip-up")
             img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
             h5.mb-0 Regímenes subsidiado y contributivo
           p.mb-4 En este tipo de régimenes, están contemplados las siguientes excepciones:

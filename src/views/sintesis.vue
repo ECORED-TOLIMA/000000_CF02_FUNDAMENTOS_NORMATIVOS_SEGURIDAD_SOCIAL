@@ -12,7 +12,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis del componente formativo Gestión para la afiliación a los planes de beneficio en salud, se explica la proceso de la afiliación al Sistema General de Seguridad Social en Salud (SGSSS), con base en la normativa vigente, adaptado a los diferentes tipos de usuario y regímenes (contributivo y subsidiado); además, se relacionan los procesos que se deben llevar a cabo en dichas afiliaciones por medio de portales y se dan a conocer las acciones en las cuotas moderadoras y sus excepciones.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
