@@ -116,7 +116,7 @@
           .titulo.mb-4(data-aos="flip-up")
             h5.mb-0 •	Ley 100 de 1993: el pilar fundamental 
           p La Ley 100 es la base principal que organizó el Sistema General de Seguridad Social en Salud en Colombia y en ella se establecieron ideas como la solidaridad, la subsidiaridad y la eficiencia. 
-          .cajon.color-primario.p-4.mb-3
+          .cajon.color-secundario.p-4.mb-3
             p.mb-0 En cuanto a lo financiero, la ley creó el Fondo de Solidaridad y Garantías (que ahora es ADRES), hizo que quienes tienen capacidad económica deban cotizar y estableció que hay dos regímenes: uno contributivo y otro subsidiado. Además, el Estado participa en la financiación usando recursos fiscales.
           p.mb-0 Después de la Ley 100, se hicieron otras reformas con leyes como la 1438 de 2011 y la 1753 de 2015, que buscaron mejorar cómo se financia el sistema para que sea más sostenible y justo. Además, hay regulaciones específicas, como el Decreto 806 de 1998, que se encarga de los detalles técnicos sobre las cotizaciones y otras resoluciones que establecen cómo se recaudan y distribuyen los recursos.
 
@@ -154,7 +154,7 @@
             div
               figure
                 img(src='@/assets/curso/temas/tema2/img11.png', alt='')
-    .tarjeta-BG02.px-lg-5
+    .tarjeta-BG02.px-lg-5.px-4
       .titulo.mb-5(data-aos="flip-up")
         h5.mb-0 •	Recaudación y administración
       .row.justify-content-center.align-items-center.mb-5

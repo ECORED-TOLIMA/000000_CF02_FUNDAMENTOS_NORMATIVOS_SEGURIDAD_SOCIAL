@@ -186,7 +186,7 @@
                   img(src='@/assets/curso/temas/tema3/img20.svg' alt='AvatarTop')
               h5.text-center Gastos administrativos
               p.text-center Son los costos relacionados con la gestión, administración y operación del sistema, incluyendo la gestión de afiliaciones, autorizaciones y pagos.
-        .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4
+        .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4.desktop
           figure
             img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa' style='margin-bottom: -23px;')
     .titulo.mb-5(data-aos="flip-up")
