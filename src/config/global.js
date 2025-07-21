@@ -1,5 +1,6 @@
 export default {
   global: {
+    Name: 'Gestión para la afiliación a los planes de beneficio en salud',
     componenteFormativo:
       'Gestión para la afiliación a los planes de beneficio en salud',
     descripcionCurso:
